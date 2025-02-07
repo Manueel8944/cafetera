@@ -1,0 +1,54 @@
+[
+  {
+    "agua": 1000,
+    "leche": 500,
+    "cafe": 300,
+    "azucar": 200
+  },
+  {
+    "agua": 1000,
+    "leche": 500,
+    "cafe": 300,
+    "azucar": 200
+  },
+  [
+    {
+      "expreso": {
+        "agua": 50,
+        "leche": 0,
+        "cafe": 100,
+        "azucar": 0
+      },
+      "tila": {
+        "agua": 20,
+        "leche": 0,
+        "cafe": 0,
+        "azucar": 0
+      }
+    },
+    {
+      "nombre": {
+        "agua": "50",
+        "leche": "25",
+        "cafe": "0",
+        "azucar": "10"
+      }
+    },
+    {
+      "fgyv": {
+        "agua": 34,
+        "leche": 3,
+        "cafe": 3,
+        "azucar": 3
+      }
+    },
+    {
+      "nombre": {
+        "agua": 3,
+        "leche": 3,
+        "cafe": 3,
+        "azucar": 3
+      }
+    }
+  ]
+]
