@@ -6,20 +6,24 @@
     "azucar": 200
   },
   {
-    "agua": 1000,
-    "leche": 500,
-    "cafe": 300,
-    "azucar": 200
+    "agua": 530,
+    "leche": 400,
+    "cafe": 60,
+    "azucar": 30
   },
   [
     {
-      "expreso": {
+      "bebida": {
+        "nombre": "expresso",
         "agua": 50,
         "leche": 0,
         "cafe": 100,
         "azucar": 0
-      },
-      "tila": {
+      }
+    },
+    {
+      "bebida": {
+        "nombre": "tila",
         "agua": 20,
         "leche": 0,
         "cafe": 0,
@@ -27,27 +31,48 @@
       }
     },
     {
-      "nombre": {
-        "agua": "50",
-        "leche": "25",
-        "cafe": "0",
-        "azucar": "10"
+      "bebida": {
+        "nombre": "machiatto",
+        "agua": 100,
+        "leche": 20,
+        "cafe": 40,
+        "azucar": 50
       }
     },
     {
-      "fgyv": {
-        "agua": 34,
-        "leche": 3,
-        "cafe": 3,
+      "bebida": {
+        "nombre": "macha",
+        "agua": 50,
+        "leche": 20,
+        "cafe": 10,
+        "azucar": 10
+      }
+    },
+    {
+      "bebida": {
+        "nombre": "nuemros",
+        "agua": null,
+        "leche": null,
+        "cafe": null,
+        "azucar": null
+      }
+    },
+    {
+      "bebida": {
+        "nombre": "asdf",
+        "agua": null,
+        "leche": null,
+        "cafe": 300,
         "azucar": 3
       }
     },
     {
-      "nombre": {
-        "agua": 3,
-        "leche": 3,
-        "cafe": 3,
-        "azucar": 3
+      "bebida": {
+        "nombre": "af",
+        "agua": 1,
+        "leche": 1,
+        "cafe": 1,
+        "azucar": 1
       }
     }
   ]
