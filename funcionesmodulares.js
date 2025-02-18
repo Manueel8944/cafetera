@@ -155,7 +155,7 @@ function menu () {
             case 2: {
                 console.clear()
                 console.log("=== Nueva bebida ===") 
-                .crearbebida()
+                maquina.crearbebida()
                 pause = prompt("Pulse Enter para continuar...")
                 break;
             }
